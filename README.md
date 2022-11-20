@@ -36,6 +36,9 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mmuttalib1326&" alt="mmuttalib1326" /></p>
 
+![snake gif](https://github.com/MMuttalib1326/MMuttalib1326/blob/output/github-contribution-grid-snake.gif)
+
+
 ```C++
  class MESSAGES
  {
@@ -47,5 +50,4 @@
  }
 
 ```
-![snake gif](https://github.com/MMuttalib1326/MMuttalib1326/blob/output/github-contribution-grid-snake.gif)
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/194bc176c0b3f2ef01a883ff206499b86c5ce72f/assets/Bottom_down.svg" width="4000" height="250" />
