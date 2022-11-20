@@ -1,3 +1,4 @@
+![logo](https://github.com/MMuttalib1326/MMuttalib1326/blob/main/1.png)
 <h1 align="center">Hi 👋, I'm Mohd Muttalib</h1>
 <h3 align="center">Data Scientist Enthusiast</h3>
 
