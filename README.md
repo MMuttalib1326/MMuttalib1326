@@ -35,6 +35,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mmuttalib1326&show_icons=true&locale=en" alt="mmuttalib1326" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mmuttalib1326&" alt="mmuttalib1326" /></p>
+![snake gif](https://github.com/MMuttalib1326/MMuttalib1326/blob/output/github-contribution-grid-snake.gif)
 
 
 ```C++
