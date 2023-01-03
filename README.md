@@ -36,8 +36,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mmuttalib1326&" alt="mmuttalib1326" /></p>
 
-![snake gif](https://github.com/MMuttalib1326/MMuttalib1326/blob/output/github-contribution-grid-snake.gif)
-
 
 ```C++
  class MESSAGES
