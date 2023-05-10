@@ -53,7 +53,10 @@
  }
 
 ```
+ <img src="https://github-readme-activity-graph.cyclic.app/graph?username=MMuttalib1326&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+
 ![snake gif](https://github.com/MMuttalib1326/MMuttalib1326/blob/output/github-contribution-grid-snake.gif)
+
 <h2 align="center">🤝 Support</h2>
 <p align="center">💙 If you like my projects, Give them ⭐ and Share it with friends!</p>
 </p>
