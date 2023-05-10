@@ -66,3 +66,7 @@
 
 <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/194bc176c0b3f2ef01a883ff206499b86c5ce72f/assets/Bottom_down.svg" width="4000" height="250" />
+
+<h4 align="center">
+  <a href="https://www.linkedin.com/in/mohd-muttalib1326/" title="LinkedIn">🔎 Show More 🔍</a>
+</h4>
