@@ -46,6 +46,10 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mmuttalib1326&" alt="mmuttalib1326" /></p>
 
+<a href="https://github.com/MMuttalib1326/github-readme-activity-graph" title="Github Readme Activity Stats"><img src="https://fabianocouto-activity-graph.vercel.app/graph/?username=MMuttalib1326&theme=github-dark-dimmed&radius=6&area=true" alt="fabianocouto" width=99.8% /></a>
+
+![snake gif](https://github.com/MMuttalib1326/MMuttalib1326/blob/output/github-contribution-grid-snake.gif)
+
 ```C++
  class MESSAGES
  {
@@ -57,9 +61,6 @@
  }
 
 ```
- <img src="https://github-readme-activity-graph.cyclic.app/graph?username=MMuttalib1326&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-
-![snake gif](https://github.com/MMuttalib1326/MMuttalib1326/blob/output/github-contribution-grid-snake.gif)
 
 <h2 align="center">🤝 Support</h2>
 <p align="center">💙 If you like my projects, Give them ⭐ and Share it with friends!</p>
