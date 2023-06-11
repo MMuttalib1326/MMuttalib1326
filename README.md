@@ -54,7 +54,7 @@
     <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-night-rainbow.svg" width = "98%">
     <img src="profile-3d-contrib/profile-night-rainbow.svg" width = "98%"/>
   </picture>
-</div>
+</div> 
 
 ![snake gif](https://github.com/MMuttalib1326/MMuttalib1326/blob/output/github-contribution-grid-snake.gif)
 
