@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Mohd Muttalib</h1>
 <h3 align="center">Data Scientist </h3>
  
-
+ 
 <p align="center">
   <!-- Typing SVG by MMuttalib1326 - https://github.com/MMuttalib1326/readme-typing-svg -->
   <a href="https://github.com/MMuttalib1326/readme-typing-svg">
