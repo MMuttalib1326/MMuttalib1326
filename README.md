@@ -51,8 +51,8 @@
  
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="images/profile-custom-season.svg" width = "98%">
-    <img src="images/profile-custom-night-view.svg" width = "98%"/>
+    <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-night-view.svg" width = "98%">
+    <img src="profile-3d-contrib/profile-night-view.svg" width = "98%"/>
   </picture>
 </div>
 
