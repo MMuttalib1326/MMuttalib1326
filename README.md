@@ -40,13 +40,13 @@
 <h3 align="lest"> Stats: </h3>
 <hr>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mmuttalib1326&show_icons=true&locale=en&layout=compact" alt="mmuttalib1326" /></p>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mmuttalib1326&theme=chartreuse_dark)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mmuttalib1326&show_icons=true&locale=en" alt="mmuttalib1326" /></p>
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mmuttalib1326&theme=chartreuse_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mmuttalib1326&theme=chartreuse_dark)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mmuttalib1326&" alt="mmuttalib1326" /></p>
-
-<a href="https://github.com/MMuttalib1326/github-readme-activity-graph" title="Github Readme Activity Stats"><img src="https://fabianocouto-activity-graph.vercel.app/graph/?username=MMuttalib1326&theme=github-dark-dimmed&radius=6&area=true" alt="fabianocouto" width=99.8% /></a>
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mmuttalib1326&theme=chartreuse_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mmuttalib1326&theme=chartreuse_dark&utcOffset=8)
 
 ![snake gif](https://github.com/MMuttalib1326/MMuttalib1326/blob/output/github-contribution-grid-snake.gif)
 
