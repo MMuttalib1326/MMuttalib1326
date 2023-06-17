@@ -21,6 +21,9 @@
 
 - 📫 How to reach me **muttalib1326@gmail.com**
 
+- 💬 Ask me about *| Machine Learning | Artificial Intelligence | Deep Learning | NLP | Computer Vision | Tableau | PowerBi | Excel | Google Analytics.*
+
+
 <h3 align="left">Connect with me:</h3>
 <hr>
 <p align="left">
