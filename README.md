@@ -6,7 +6,7 @@
 <p align="center">
   <!-- Typing SVG by MMuttalib1326 - https://github.com/MMuttalib1326/readme-typing-svg -->
   <a href="https://github.com/MMuttalib1326/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Data%20Scientist%20Intern%20At%20DataInsighto%20Technologies;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=940&height=65&color=f75c7e&vCenter=true&pause=1000&size=29" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Data%20Scientist%20%20At%20DataInsighto%20Technologies;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=940&height=65&color=f75c7e&vCenter=true&pause=1000&size=29" /></a>
 </p>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
